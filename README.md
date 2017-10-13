@@ -4,7 +4,7 @@
 
 >[Framework7 with Vue.js](https://framework7.io/vue/)
 
->Nature Language Processing (NLP) [Wit.ai](https://wit.ai/)
+>Natural Language Processing (NLP) [Wit.ai](https://wit.ai/)
 
 ### Usage
 ---
